@@ -14,4 +14,5 @@ Benefits:
 Empowers farmers and traders with actionable price forecasts to optimize their selling and buying decisions.
 Enhances transparency and efficiency in Telangana's agricultural markets.
 Supports policymakers by providing data-driven insights to stabilize commodity prices.
+
 This project represents a significant step toward leveraging advanced data science to support Telangana’s agricultural economy.
